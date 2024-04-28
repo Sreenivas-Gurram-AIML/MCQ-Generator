@@ -3,6 +3,7 @@
         "dotenv",
         "Gurram",
         "langchain",
+        "llms",
         "MCQGENERATOR",
         "openai",
         "Sreenivas",
